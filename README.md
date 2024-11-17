@@ -9,13 +9,13 @@
 ### *<div align="center">A passionate full-stack developer bringing ideas to life💻, one project at a time 🚀</div>*  
   
 
-<div align="center">Currently pursuing my B.E. 🧑‍🎓 in Computer Science Engineering (CSE) 👨‍💻 at DY Patil Pimpri.</div>  
+<div align="center"> - Currently pursuing my B.E. 🧑‍🎓 in Computer Science Engineering (CSE) 👨‍💻 at DY Patil Pimpri.</div>  
   
 
-<div align="center"> Exploring the MERN stack ⚛️ along with new and emerging technologies as they come 🚀.</div>  
+<div align="center"> - Exploring the MERN stack ⚛️ along with new and emerging technologies as they come 🚀.</div>  
   
 
-<div align="center"> Fun fact 😉: I turn "404 Not Found🐞" errors into "Success! ✅" with enough Googling 😜.</div>  
+<div align="center"> - Fun fact 😉: I turn "404 Not Found🐞" errors into "Success! ✅" with enough Googling 😜.</div>  
   
 
 <br/>  
