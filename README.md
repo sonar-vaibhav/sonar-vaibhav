@@ -4,7 +4,7 @@ A self-driven full-stack developer passionate about solving real-world problems 
 I love exploring new technologies as they emerge and enjoy applying them to practical use cases.
  
 - 💡 Always learning — from design systems to scalable backend patterns  
-- 🛠️ Turning ideas into intuitive, usable, and impactful web applications  
+- 🛠️ Turning ideas into usable, and impactful applications  
 - 💼 Open to internships, collaborations, or building with like-minded devs
 
 ## ⚡ Fun Fact
