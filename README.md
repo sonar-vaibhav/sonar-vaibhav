@@ -19,7 +19,7 @@ const vaibhav_sonar = {
   building: "Systems that solve real-world problems",
   learning: ["Full-stack development", "System Design", "DevOps"],
   principle: "Write code that works → then make it better",
-  techStack: ["Flexible, but focused on solving problems"],
+  techStack: [Learning today, using tomorrow 😜"],
   sideQuest: "Turning ideas into deployable projects",
   openTo: ["Internships", "Collabs", "Interesting challenges"]
 };
